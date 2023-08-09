@@ -5,7 +5,7 @@ while is_true:
         print("thankyou")
         break
     age_as_int = int(age)
-    year = (90 - age_as_int)
+    year = (70 - age_as_int)
     days_left = (year * 365)
     week_left = (year * 52)
     months_left = (year * 12)
